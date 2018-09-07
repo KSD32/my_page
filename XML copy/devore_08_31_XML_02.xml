@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Letter> 
+
+    <Intro> The following letter was introduced in <person type="author_of_letter"> Wilde's </person>libel trial by <person type="knighted_lawyer">sir Edward Clark </person>, Wilde's attorney. Although the letter lends support to the defense case, <person type="knighted_lawyer"> Clark </person> chose to introduce the letter to prevent the defense from introducing the letter in a more dramatic fashion during its case.</Intro>
+
+    <date>January 1893 </date> <location> Babbacombe Cliff </location>
+    <Greeting type="personal"> My Own Boy </Greeting>
+<Body>
+    Your <poetry> sonnet </poetry> is quite <feeling type="pleasure">lovely </feeling>, and it is a marvel that those <description> red-roseleaf </description> lips of yours should be made no less for the <emotion> madness </emotion> of music and song than for the <emotion> madness </emotion> of kissing. 
+    Your <description type="body"> slim </description> gilt soul walks between passion and poetry. 
+    I know <allusion type="GreekMythology"> Hyacinthus </allusion>, whom <allusion type="GreekMythology"> Apollo </allusion> loved so madly, was you in Greek days.
+    Why are you alone in <location type="England"> London </location>, and when do you go to <location type="England">Salisbury </location>? 
+    Do go there to cool your hands in the <description type="color">grey </description> twilight of <Literature type="genre"> Gothic </Literature> things, and come here whenever you like. 
+    It is a <description type="postive"> lovely </description> place and lacks only you; but go to <location type="England"> Salisbury </location> first.
+</Body>
+    <closing type="personal">Always, with undying love, </closing> 
+    <signature> Yours,Oscar </signature>
+</Letter>

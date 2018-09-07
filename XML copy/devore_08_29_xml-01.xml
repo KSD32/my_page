@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KD> 
+    
+    <Servings>
+        <Tested_size>10-12 servings </Tested_size>
+        <Text> makes one 11-ounce loaf 10 to 12 slices</Text>
+    </Servings>
+    
+    <Ingredients>
+       <food_item type="dry item"> white bread flour, plus more for dusting</food_item>
+       <food_item type= "dry item"> stone-ground whole-wheat flour </food_item>
+       <food_item type="special item"> stone-ground whole rye flour </food_item>
+       <food_item> nstant yeast or bread machine yeast </food_item>
+       <food_item type="spice">  table salt </food_item>
+       <food_item type="alcohol">  dry fermented cider (may substitute Pilsener beer; see headnote)</food_item>
+       <food_item type="liquid"> lukewarm water (80 degrees), plus an optional 1 tablespoon </food_item>
+    </Ingredients>
+    
+    <Measurements> 
+        <white_bread_flour>1 1/4 cups (160 grams) </white_bread_flour>
+        <stone_ground_whole_white_flour> 1/4 cup (38 grams)</stone_ground_whole_white_flour>
+        <stone_ground_whole_rye_flour> 1/4 cup (32 grams)</stone_ground_whole_rye_flour>
+        <instant_breadmachine_yeast>1/2 teaspoon</instant_breadmachine_yeast>
+        <salt>1 teaspoon</salt>
+        <dry_fermented_cider>1/4 cup (55 grams)</dry_fermented_cider>
+        <water>1/2 cup (120 grams) </water>
+    </Measurements>
+    
+    <Directions>
+        <text type="action"> Whisk together the <food_item type="dry item"> flours, yeast and salt</food_item>in a <kitchen_tool> mixing bowl</kitchen_tool> </text>
+        <text type="action">Combine the <food_item> cider and water </food_item> in a <kitchen_tool> liquid measuring cup </kitchen_tool> </text>
+        <text type="action">Add the liquid to the flour mixture; use a <kitchen_tool>spatula or bench scraper or your hand </kitchen_tool> moistened with water to blend them for about a <time> minute </time> </text>
+        <text type="appearance">The dough should be shaggy yet cohesive </text>
+        <text type="action">Cover the bowl with a <kitchen_tool> towel </kitchen_tool> ; let the dough rest for <time type="minutes"> 20 </time></text>
+        <text type="action">Moisten your kneading hand </text>
+        <text type="action">If the dough seems stiff, add the optional tablespoon of <food_item type="liquid"> water </food_item> </text>
+        <text type="action"> Stretch one edge of the dough, then press it into the center of the <kitchen_item> bowl </kitchen_item> </text>
+        <text type="action">Repeat this about a dozen times, moving clockwise to catch all sides of the dough <time type="minutes"> This should take 1 or 2 </time> </text>
+        <text type="action">Turn the dough over so the seams are on the bottom </text> 
+        <text type="action"> Cover and let rest for <time type="minutes"> 20 minutes </time> </text>
+        <text type="action">Repeat the clockwise stretching and folding two more times, with <time> 20-minute </time> <text> rests after each </text> </text>
+        <text type="action">Cover and refrigerate at least <time type="hours"> 8 to 24  </time>  </text>
+        <text type= "appearance">The dough should have doubled </text> 
+        <text type="action"> If it hasn't, leave it on the counter until it does </text>
+        <text type="action">Lightly flour a work surface </text> 
+        <text type="action">Use a <kitchen_tool type="clothe">pastry cloth or clean dish towel </kitchen_tool> to line a <kitchen_tool>round colander</kitchen_tool> </text>
+        <text type= "action"> Dust the </text> <kithcen_item>cloth</kithcen_item> with <food_item>flour</food_item>
+        <text type="action">Transfer the dough to the floured work surface </text> 
+        <text type="action">Fold the edges toward the center to create a round shape, turning it over so the seams are on the bottom. </text>
+        <text type="action">Let it rest for <time type="minutes"> 5 </time> then transfer to the <kitchen_item> colander</kitchen_item>, seam side up. </text> 
+        <text type="action">Cover with a <kitchen_item> towel </kitchen_item> and let the dough rise for <time type="hours"> 1 1/2 </time> </text>
+        <text type="action"><time type= "minutes">Thirty </time> before baking, place a <kitchen_item type="metal">cast-iron Dutch oven (lid on) or enameled cast-iron pot with a lid (on) </kitchen_item> in the oven; preheat to <temperature type="fahrenheit"> 475 degrees </temperature> </text>
+        <text type="action">Carefully remove the hot pot from the <kitchen_item> oven </kitchen_item> </text>
+        <text type="action"> Turn the dough out onto the counter so the seams are on the bottom.</text> 
+        <text type="action">Use <kitchen_item> kitchen scissors </kitchen_item> to make <measurement type="snips"> 8 </measurement> on the top of the dough in an evenly spaced spoke pattern, each about <measurement type= "inches_deep">  1/4</measurement>  </text> 
+        <text type="action"> Lift the dough and carefully drop it into the hot pot.</text> 
+        <text type="action">Immediately cover with the hot lid. Bake for <time type="minutes"> 30 </time>, then reduce the heat to <temperature type= "fahrenheit">450 </temperature> </text> 
+        <text type="action">Uncover and bake for <time type="minutes">8 to 10</time> or until the crust is dark brown. </text> 
+        <text type="referal">Try to minimize the amount of time the oven door is open </text>
+        <text> The bread is done when its internal temperature registers <temperature type="fahrenheit">205 degrees</temperature> on an <kitchen_item> instant-read thermometer </kitchen_item>and the loaf sounds hollow when knocked on the underside.</text>
+        <text type="action">Transfer the loaf to a wire rack to cool for at least <time type="hour"> 1 </time>  before cutting. </text>
+    </Directions>
+</KD>

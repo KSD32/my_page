@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CountryLoaf> 
+<shoppinglist>
+<fooditem type="dry item"> white bread flour </fooditem>
+<food_item type="special item"> stone ground whole wheat flour</food_item>
+<food_item> stone ground whole rye flour </food_item>
+<food_item> instant bread yeast </food_item>
+<food_item type= "interchangeable"> Bread machine yeast</food_item>
+<food_item type="spice" > salt</food_item>
+<food_item> dry fermented cider</food_item>
+
+<liquid> water </liquid>
+ 
+</shoppinglist>
+
+<store type="location"> Grocery store </store>
+ 
+<intruments> 
+
+
+
+
+</intruments>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</CountryLoaf>
